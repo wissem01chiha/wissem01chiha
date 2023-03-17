@@ -12,7 +12,7 @@
 </h1>
  
 
-### :woman_technologist: About Me :I AM 
+### :woman_technologist: About Me :I am a versatile engineer based in Tunisia, currently enrolled in the Polytechnic School with a strong interest in robotics, embedded systems, programming, and simulations. With a diverse skill set and a passion for innovation, you are constantly seeking new challenges to enhance your knowledge and expertise in your field.
 ### :hammer_and_wrench: Languages and Tools :
  <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
