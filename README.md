@@ -22,7 +22,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="rasberry" alt="rasberry" width="40"          height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="rasberry" alt="rasberry" width="50" height="50"/>&nbsp;
- <img src=" https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg " title="rasberry" alt="rasberry" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg " title="arduino" alt="ardunio" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="rasberry" alt="rasberry" width="40" height="40"/>&nbsp;
  
 
