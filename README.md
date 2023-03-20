@@ -21,14 +21,14 @@ I am a versatile engineer based in Tunisia, currently enrolled in the Polytechni
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg " title="arduino" alt="ardunio" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="rasberry" alt="rasberry" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="rasberry" alt="rasberry" width="40"        height="40"/>&nbsp;
-   <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg.png" title="fortran" alt="fortran" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/111453233/226482075-df4217f2-3d2a-40f1-aa77-2403c949472d.svg  " title="fortran" alt="fortran" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="rasberry" alt="rasberry" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  
-
+ 
 
 
  
