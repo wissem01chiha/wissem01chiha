@@ -1,35 +1,40 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEzMzY2NTVhZmQ5NTU5MDcwMGJiMjIyYjdhYjA5YWU2NDM1MTU2ZSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/chiha-wissem-a0264821b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<h1>
-  WELCOME TO MY GIT 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
- 
-
-### :woman_technologist: About Me :
-I am a versatile engineer based in Tunisia, currently enrolled in the Polytechnic School with a strong interest in robotics, embedded systems, programming, and simulations. With a diverse skill set and a passion for innovation, I am constantly seeking new challenges to enhance  knowledge and expertise in my field.
-### :hammer_and_wrench: Languages and Tools :
- <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300,h_300/https://blog.st.com/wp-content/uploads/Subbrand_STM32.gif" title="stm32" alt="rasberry" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg " title="arduino" alt="ardunio" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="rasberry" alt="rasberry" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="rasberry" alt="rasberry" width="40"        height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/111453233/226482075-df4217f2-3d2a-40f1-aa77-2403c949472d.svg  " title="fortran" alt="fortran" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="rasberry" alt="rasberry" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- 
- 
+ #  About Me:
+As an adaptable engineer hailing from Tunisia, I am currently pursuing my education at the Polytechnic School with a keen focus on the fascinating domains of robotics, embedded systems, programming, and simulations. With a wide-ranging skill set and an insatiable drive for innovation, I am always on the lookout for fresh challenges to further expand my knowledge and expertise in the field.
 
 
+ ### :hammer_and_wrench: Languages and Tools :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+  ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
  
-</div>
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+ ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)
+ ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+ 
+ ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
+ ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) 
+ 
+ 
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
+  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+  
+  
+
+  
+ 
+#  Contact Me:
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
+ 
+ https://www.linkedin.com/in/wissem-chiha-a0264821b/
+ 
+![]( https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+
+chihawissem08@gmail.com
+
+
+#  License:
+![C]( https://img.shields.io/badge/license%20-GNU-green )
+ 
