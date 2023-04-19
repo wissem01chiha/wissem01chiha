@@ -1,6 +1,6 @@
   <div align="center">
  
-  <img src="https://www.racecar-engineering.com/wp-content/uploads/2018/09/SimScale_Webinar_2.jpg"  width="1400" height="300" />
+  <img src="https://iad.la/wp-content/uploads/2022/10/f1-sauber-presents-supercomputer-albert-2004-albert-the-new-supercomputer-for-cfd-calcul.jpg"  width="1400" height="300" />
 </div>
  
 
