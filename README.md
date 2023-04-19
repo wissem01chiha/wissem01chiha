@@ -1,8 +1,14 @@
- #  About Me:
-As an adaptable engineer hailing from Tunisia, I am currently pursuing my education at the Polytechnic School with a keen focus on the fascinating domains of robotics, embedded systems, programming, and simulations. With a wide-ranging skill set and an insatiable drive for innovation, I am always on the lookout for fresh challenges to further expand my knowledge and expertise in the field.
+  <div align="center">
+ 
+  <img src="https://www.racecar-engineering.com/wp-content/uploads/2018/09/SimScale_Webinar_2.jpg"  width="1400" height="300" />
+</div>
+ 
 
+#  About Me:
+As an adaptable engineer specialized in Complex Systems Design , I am currently pursuing my education at TUNISIA POLYTECHNIC SCHOOL (EPT) with a keen focus on the fascinating domains of Robotics,Embededd systems, Computational Fluid Dynamics, Aerodynamics, Structural mechanics. With a wide-ranging skill set and an insatiable drive for innovation, I am always on the lookout for fresh challenges to further expand my knowledge and expertise in my field.
 
- ### :hammer_and_wrench: Languages and Tools :
+This is my officiel git where you can explore a diverse range of my engineering projects and works. 
+ ## :hammer_and_wrench: Languages and Tools :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) 
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -25,7 +31,7 @@ As an adaptable engineer hailing from Tunisia, I am currently pursuing my educat
 
   
  
-#  Contact Me:
+##  Contact Me:
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
  
  https://www.linkedin.com/in/wissem-chiha-a0264821b/
