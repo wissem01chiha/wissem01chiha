@@ -13,8 +13,10 @@ Thank you for visiting my Git repository, and I hope you enjoy exploring my work
 If you would like to get in touch with me, you can reach me at:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)    https://www.linkedin.com/in/wissem-chiha-a0264821b/
+
 ![]( https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)    chihawissem08@gmail.com
 
+![]( https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)  wissem.chiha@ept.ucar.tn 
 
 
 
