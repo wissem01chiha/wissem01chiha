@@ -1,6 +1,6 @@
 
 # About Me
-I am a multidisciplinary engineer specializing in Complex Systems Design. Currently, I am pursuing my education atTunisia polytechnic School with a keen focus on the fascinating domains of Robotics, Embedded Systems, Computational Fluid Dynamics, Aerodynamics. With a wide-ranging skill set and an insatiable drive for innovation, I am always on the lookout for fresh challenges to further expand my knowledge and expertise in my field.
+I am a multidisciplinary engineer specializing in Complex Systems Design. Currently, I am pursuing my education at Tunisia polytechnic School with a keen focus on the fascinating domains of Robotics, Embedded Systems, Computational Fluid Dynamics, Aerodynamics. With a wide-ranging skill set and an insatiable drive for innovation, I am always on the lookout for fresh challenges to further expand my knowledge and expertise in my field.
 
 # Git Repository
 Welcome to my official Git repository, where you can explore a diverse range of my engineering projects and works. Here, I showcase my capabilities and highlight the innovative solutions I have developed throughout my journey.
