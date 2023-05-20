@@ -21,6 +21,6 @@ If you would like to get in touch with me, you can reach me at:
 chihawissem08@gmail.com
 
 
-#  License:
+#  License
 ![C]( https://img.shields.io/badge/license%20-GNU-green )
  
