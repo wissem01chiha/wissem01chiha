@@ -14,7 +14,9 @@ If you find any project interesting or have any suggestions, please don't hesita
 Thank you for visiting my Git repository, and I hope you enjoy exploring my work!
 
 ##  Contact Me
-If you would like to get in touch with me, you can reach me at:   chihawissem08@gmail.com
+If you would like to get in touch with me, you can reach me at:  
+chihawissem08@gmail.com
+---
 #  License
 ![C]( https://img.shields.io/badge/license%20-GNU-green )
 ## Git Status 
