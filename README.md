@@ -1,8 +1,8 @@
 
 
 # About Me
-I am a multidisciplinary engineer specializing in Complex Systems Design at Tunisia polytechnic School.
-I am pursuing my education  with a keen focus on  domains of Robotics, and Embedded Systems.
+I am a mecanical engineer specializing in complex systems design at Tunisia polytechnic School.
+I am pursuing my education  with a keen focus on  domains of Robotics, Computational Fluid Dynamics, and  Finite element analysis. 
 I am always on the lookout for fresh challenges to further expand my knowledge and expertise in my field.
 
 # Git Repository
