@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I'm Wissem.  
+🔬 I'm a Multidisciplinary Engineering Student.  
+🤖 Interested in Robotics, Software Development, Computer Vision, and Embedded Systems.  
+🌌 Currently, I'm exploring Physics-Informed Neural Networks for Multiphysics Simulations.  
+🖥️ My research areas include:  
+&emsp; &emsp;Control Strategy Optimizations in Robotics Systems.  
+&emsp; &emsp;Applications of Computer Vision in Computer-Aided Design (CAD).    
+&emsp; &emsp;High-Performance Computing in Computational Fluid Dynamics.   
+🚀 Join me on my engineering journey!  
 
-<!--
-**wissem01chiha/wissem01chiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissem01chiha&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wissem01chiha&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissem01chiha&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissem01chiha&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissem01chiha&theme=github&utcOffset=8)
