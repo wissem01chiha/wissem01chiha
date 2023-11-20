@@ -4,8 +4,8 @@
 🌌 Currently, I'm exploring Physics-Informed Neural Networks for Multiphysics Simulations.  
 🖥️ My research areas include:  
 &emsp; &emsp;Control Strategy Optimizations in Robotics Systems.  
-&emsp; &emsp;Applications of Computer Vision in Computer-Aided Design (CAD).    
-&emsp; &emsp;High-Performance Computing in Computational Fluid Dynamics.   
+&emsp; &emsp;Computer Vision Applications      
+&emsp; &emsp;Computational Fluid Dynamics.   
 🚀 Join me on my engineering journey!  
 
  
