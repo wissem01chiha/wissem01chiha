@@ -1,7 +1,6 @@
 👋 Hi, I'm Wissem.  
 🔬 I'm a Multidisciplinary Engineering Student.  
-🤖 Interested in Robotics, Software Development, Computer Vision, and Embedded Systems.  
-🌌 Currently, I'm exploring Physics-Informed Neural Networks for Multiphysics Simulations.  
+🤖 Interested in Robotics, Software Development, Computer Vision, and Embedded Systems.   
 🖥️ My research areas include:  
 &emsp; &emsp;Control Strategy Optimizations in Robotics Systems.  
 &emsp; &emsp;Computer Vision Applications      
