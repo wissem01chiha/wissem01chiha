@@ -16,4 +16,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissem01chiha&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissem01chiha&theme=github&utcOffset=8)
 
-[![](https://visitcount.itsvg.in/api?id=wissem01chiha&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
