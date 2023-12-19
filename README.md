@@ -4,8 +4,7 @@
 🖥️ My research areas include:  
 &emsp; &emsp;Design and Control of Robotics Systems   
 &emsp; &emsp;Embedded Systems Devellopement       
-&emsp; &emsp;Computer Vision Applications   
-&emsp; &emsp;Computional Fuild Dynamics  
+&emsp; &emsp;Computer Vision Applications     
 &emsp; &emsp;Finite Element Analysis and Simulations.  
 🚀 Join me on my engineering journey!  
 
