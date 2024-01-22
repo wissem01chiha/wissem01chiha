@@ -1,11 +1,15 @@
 👋 Hi, I'm Wissem.  
-🔬 I'm a Multidisciplinary Engineering Student.  
-🤖 Interested in Robotics, Software Development, Computer Vision, and Embedded Systems.   
+🔬 I'm a Bachelor Multidisciplinary Engineering Student.  
+🤖 Interested in  Robotics and  Control Systems.     
 🖥️ My research areas include:  
-&emsp; &emsp;Design and Control of Robotics Systems   
-&emsp; &emsp;Embedded Systems Devellopement       
-&emsp; &emsp;Computer Vision Applications       
-🚀 Join me on my engineering journey!  
+&emsp; &emsp;Control Design of Robotics Systems.    
+&emsp; &emsp;Autonomous Navigation and Teleoperation.   
+&emsp; &emsp;Machine Learning in Robotics.  
+&emsp; &emsp;Robotic Perception.   
+&emsp; &emsp;Computer Vision Applications.  
+&emsp; &emsp;Computational Science.  
+           
+ 
 
  
  
