@@ -1,10 +1,10 @@
 Hi, I'm Wissem.  
 
 I am a Bachelor Mechanical Engineering student.  
-My fundamental knowledge lies in rigid body mechanics, structural analysis, finite element simulations, and computational dynamics.  
-
-I am currently focusing on classical linear control systems and exploring nonlinear and chaotic behavior.
-
+My fundamental knowledge lies in rigid body mechanics, structural analysis,   
+finite element simulations, and computational dynamics.    
+I am currently focusing on classical linear control systems and exploring   
+nonlinear and chaotic behavior.    
 I have gained experience in robotic modeling, programming, and simulations.
 
 Currently, my focus is on:
