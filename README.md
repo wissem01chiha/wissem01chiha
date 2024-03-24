@@ -1,12 +1,10 @@
 Hi, I'm Wissem.  
 
 I am a Bachelor Mechanical Engineering student.  
-My fundamental knowledge lies in rigid body mechanics, structural analysis,   
-finite element simulations, and computational dynamics.    
-I am currently focusing on classical linear control systems and exploring   
-nonlinear and chaotic behavior.    
-I have gained experience in robotic modeling, programming, and simulations.
-
+My fundamental knowledge lies in rigid body mechanics,structural analysis,finite element simulations,  
+and computational dynamics.  
+I am currently focusing on classical linear control systems and exploring nonlinear and chaotic behavior.      
+I have gained experience in robotic modeling, programming, and simulations.  
 Currently, my focus is on:
 - Control design of robotic systems using machine learning
 - Identification of critical parameters in robotic manipulators
@@ -19,8 +17,8 @@ Currently, my focus is on:
 |   Python     | Simulink     | Catch2   | CMake   |            |
 |   FORTRAN    | MuJoCoo      |          | Conan   |            |  
 |   MATLAB     | RviZ         |         | vcpkg   |           |  
-|   Java       |             |          |        |         | |    
-|
+|   Java       |             |          |        |         |     
+
 - Comprehensive list of materials I have selected for reading or have read:
   [Materials](materiels.md) - This list is regularly updated.
 
