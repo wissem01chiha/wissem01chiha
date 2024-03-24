@@ -26,11 +26,14 @@ Currently, my focus is on:
 
 - Find some of my written projects documented here.[index](index.html)
 
+![](https://raw.githubusercontent.com/wissem01chiha/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wissem01chiha/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/wissem01chiha/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wissem01chiha/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissem01chiha&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissem01chiha&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissem01chiha&theme=github)
-
-
 
 
