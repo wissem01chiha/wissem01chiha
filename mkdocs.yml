@@ -1,0 +1,14 @@
+site_name: wissem
+nav:
+  - Home: index.md
+  - About: materiels.md
+  - algo: algo.md
+  - welcome: welcome.md
+  
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - toc.integrate
+ 
