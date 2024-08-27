@@ -19,7 +19,7 @@
 <td valign="top" width="35%">
 
 ### Recommended Reading
-- [Generative Programming: Methods, Tools, and Applications by Krzysztof Czarnecki](#)
+- [Generative Programming: Methods, Tools, and Applications by Krzysztof Czarnecki](https://archive.org/details/generativeprogra0000czar)
 - [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [C++ Software Design by Klaus Iglberger](https://www.oreilly.com/library/view/c-software-design/9781098113155/)
 - [Functional Programming in C++ by Ivan Čukić](https://www.oreilly.com/library/view/functional-programming-in/9781617293818/)
