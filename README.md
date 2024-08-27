@@ -1,22 +1,37 @@
-Hi, I'm Wissem.  
+### Hi, I'm Wissem Chiha
 
-I am a bachelor mechanical engineering student.  
-My fundamental knowledge lies in rigid body mechanics, structural analysis, finite element simulations, and computational dynamics.  
-I am currently focusing on classical linear control systems and exploring nonlinear and chaotic behavior.      
-I have gained experience in robotic modeling, programming, and simulations.  
-currently, my work is on:
-- identification of critical parameters in robotic manipulators
-- control design of robotic systems using machine learning
-- robotic perception and visual servoing
-   
+**Modern C++/Python Developer | Computer Vision and Control for Robotic Systems**
 
-- find a comprehensive list of materials, in realted topics i have selected for reading or have read:
-   
-- if you find any bug or want to contribuate to a project contact me,
-- contact : chihawissem08@gmail.com
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissem01chiha&show=reviews,&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissem01chiha&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+#### Connect with Me
+- **LinkedIn**: [Wissem Chiha](https://www.linkedin.com/in/wissem-chiha-a0264821b/)
 
- 
+<table>
+<tr>
+<td valign="top" width="30%">
 
+### Latest Releases
+- [pyDynaMapp](https://github.com/wissem01chiha/dynamic-identification) : [v0.1.0](https://github.com/wissem01chiha/dynamic-identification/releases/tag/v0.1.0) - 2024-08-12
+- More [Recent Releases](https://github.com/wissem01chiha/wissem01chiha/releases.md)
 
+</td>
+<td valign="top" width="35%">
+
+### Recommended Reading
+- [Generative Programming: Methods, Tools, and Applications by Krzysztof Czarnecki](#)
+- [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+- [C++ Software Design by Klaus Iglberger](https://www.oreilly.com/library/view/c-software-design/9781098113155/)
+- [Functional Programming in C++ by Ivan Čukić](https://www.oreilly.com/library/view/functional-programming-in/9781617293818/)
+- [Beautiful C++ by J. Guy Davidson and Kate Gregory](https://www.oreilly.com/library/view/beautiful-c-30/9780137647767/)
+- More [Additional Reading](https://github.com/wissem01chiha/wissem01chiha/Reading.md)
+
+</td>
+<td valign="top" width="35%">
+
+###  TIL
+- [Build and Install Catch2 v3.0](#)
+
+</td>
+</tr>
+</table>
