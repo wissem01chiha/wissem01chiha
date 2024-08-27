@@ -1,12 +1,3 @@
-### Hi, I'm Wissem Chiha
-
-**Modern C++/Python Developer | Computer Vision and Control for Robotic Applications**
-
----
-
-#### Connect with Me
-- **LinkedIn**: [Wissem Chiha](https://www.linkedin.com/in/wissem-chiha-a0264821b/)
-
 <table>
 <tr>
 <td valign="top" width="30%">
