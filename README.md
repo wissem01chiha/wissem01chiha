@@ -1,6 +1,6 @@
 ### Hi, I'm Wissem Chiha
 
-**Modern C++/Python Developer | Computer Vision and Control for Robotic Systems**
+**Modern C++/Python Developer | Computer Vision and Control for Robotic Applications**
 
 ---
 
