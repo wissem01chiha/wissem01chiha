@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Wissem </h2>
-<h4 align="center">I'm a Mechanical Engineer. I love programming, and low level problems. I'm interested in Robotics and Physics Simulation, Scientific Visualization and Computer Graphics</h4>
+<h2>Hi 👋, I'm Wissem </h2>
+<h4>I'm a Mechanical Engineer. I love programming, and low level problems. I'm interested in Robotics and Physics Simulation, Scientific Visualization and Computer Graphics</h4>
+
 
 - 🌱 I’m currently learning **Reinforcement Learning for Robotic Application**
 -  👯 I’m looking to collaborate on [pyDynaMapp](https://github.com/wissem01chiha/dynamic-identification)
